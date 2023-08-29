@@ -4,7 +4,6 @@
 
 <br>
 
-
 <div align='center'>
 <h2>Click on the image to see the deployed web site</h2>
 </div>
